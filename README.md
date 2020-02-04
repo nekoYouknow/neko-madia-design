@@ -8,7 +8,7 @@
 
 - ~~yarn add @react-native-community/slider~~
 
-# Design Licensed by
+# Design Licensed
 
 - [Madia designer](https://www.youtube.com/channel/UCxRnfrmJAkRLarzeBJETB5g)
 - [20190904-xd.xd](20190904-xd.xd)
